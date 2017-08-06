@@ -1,0 +1,155 @@
+This is the order which figures in Supporting Materials appears. 
+
+!!! Files named froi[x], where x - is number in order by authors (not order in atlas).
+!!! Files named aroi[y], where y - is number in order by Fieldtrip AAL atlas (not authors' order).
+
+FRONTAL_INF (S1)
+
+1  'Frontal_Mid_Orb_L'
+2  'Frontal_Mid_Orb_R'
+3  'Frontal_Inf_Oper_L'
+4  'Frontal_Inf_Orb_R'
+5  'Frontal_Inf_Tri_L'
+6  'Frontal_Inf_Tri_R'
+7  'Frontal_Inf_Orb_L'
+8  'Frontal_Inf_Orb_R'
+9  'Olfactory_L'
+10 'Olfactory_R'
+11 'Frontal_Med_Orb_L'
+12 'Frontal_Med_Orb_R'
+
+FRONTAL_SUP (S2)
+
+13 'Frontal_Sup_L'
+14 'Frontal_Sup_R'
+15 'Frontal_Sup_Orb_L'
+16 'Frontal_Sup_Orb_R'
+17 'Frontal_Mid_L'
+18 'Frontal_Mid_R'
+19 'Frontal_Sup_Medial_L'
+20 'Frontal_Sup_Medial_R'
+21 'Rectus_L'
+22 'Rectus_R'
+
+CENTRAL (S3)
+
+23 'Precentral_L'
+24 'Precentral_R'
+25 'Rolandic_Oper_L'
+26 'Rolandic_Oper_R'
+27 'Supp_Motor_Area_L'
+28 'Supp_Motor_Area_R'
+29 'Insula_L'
+30 'Insula_R'
+31 'Postcentral_L'
+32 'Postcentral_R'
+33 'Paracentral_Lobule_L'
+34 'Paracentral_Lobule_R'
+
+PARIETAL (S4)
+
+35 'Parietal_Sup_L'
+36 'Parietal_Sup_R'
+37 'Parietal_Inf_L'
+38 'Parietal_Inf_R'
+39 'SupraMarginal_L'
+40 'SupraMarginal_R'
+41 'Angular_L'
+42 'Angular_R'
+43 'Precuneus_L'
+44 'Precuneus_R'
+
+OCCIPITAL (S5)
+
+45 'Calcarine_L'
+46 'Calcarine_R'
+47 'Cuneus_L'
+48 'Cuneus_R'
+49 'Lingual_L'
+50 'Lingual_R'
+51 'Occipital_Sup_L'
+52 'Occipital_Sup_R'
+53 'Occipital_Mid_L'
+54 'Occipital_Mid_R'
+55 'Occipital_Inf_L'
+56 'Occipital_Inf_R'
+
+TEMPORAL (S6)
+
+57 'Heschl_L'
+58 'Heschl_R'
+59 'Temporal_Sup_L'
+60 'Temporal_Sup_R'
+61 'Temporal_Pole_Sup_L'
+62 'Temporal_Pole_Sup_R'
+63 'Temporal_Mid_L'
+64 'Temporal_Mid_R'
+65 'Temporal_Pole_Mid_L'
+66 'Temporal_Pole_Mid_R'
+67 'Temporal_Inf_L'
+68 'Temporal_Inf_R'
+69 'Fusiform_L'
+70 'Fusiform_R'
+
+LIMBIC (S7)
+
+71 'Cingulum_Ant_L'
+72 'Cingulum_Ant_R'
+73 'Cingulum_Mid_L'
+74 'Cingulum_Mid_R'
+75 'Cingulum_Post_L'
+76 'Cingulum_Post_R'
+77 'Hippocampus_L'
+78 'Hippocampus_R'
+79 'ParaHippocampal_L'
+80 'ParaHippocampal_R'
+81 'Amygdala_L'
+82 'Amygdala_R'
+83 'Thalamus_L'
+84 'Thalamus_R'
+
+BASAL_GANGLIA (S8)
+
+85 'Caudate_L'
+86 'Caudate_R'
+87 'Putamen_L'
+88 'Putamen_R'
+89 'Pallidum_L'
+90 'Pallidum_R'
+
+CEREBELLUM (S9)
+
+91 'Cerebelum_Crus1_L'
+92 'Cerebelum_Crus1_R'
+93 'Cerebelum_Crus2_L'
+94 'Cerebelum_Crus1_R'
+95 'Cerebelum_3_L'
+96 'Cerebelum_3_R'
+97 'Cerebelum_4_5_L'
+98 'Cerebelum_4_5_R'
+99 'Cerebelum_6_L'
+100 'Cerebelum_6_R'
+101 'Cerebelum_7b_L'
+102 'Cerebelum_7b_R'
+103 'Cerebelum_8_L'
+104 'Cerebelum_8_R'
+105 'Cerebelum_9_L'
+106 'Cerebelum_9_R'
+107 'Cerebelum_10_L'
+108 'Cerebelum_10_R'
+
+VERMIS (S10)
+
+109 'Vermis_1_2'
+110 'Vermis_3'
+111 'Vermis_4_5'
+112 'Vermis_6'
+113 'Vermis_7'
+114 'Vermis_8'
+115 'Vermis_9'
+116 'Vermis_10'
+
+
+This order is different than order in AAL atlas, so we have to remap it. Order in authors figures below:
+
+{'Frontal_Mid_Orb_L' ,'Frontal_Mid_Orb_R' ,'Frontal_Inf_Oper_L' ,'Frontal_Inf_Oper_R' ,'Frontal_Inf_Tri_L' ,'Frontal_Inf_Tri_R' ,'Frontal_Inf_Orb_L' ,'Frontal_Inf_Orb_R' ,'Olfactory_L' ,'Olfactory_R' ,'Frontal_Med_Orb_L' ,'Frontal_Med_Orb_R' ,'Frontal_Sup_L' ,'Frontal_Sup_R' ,'Frontal_Sup_Orb_L' ,'Frontal_Sup_Orb_R' ,'Frontal_Mid_L' ,'Frontal_Mid_R' ,'Frontal_Sup_Medial_L' ,'Frontal_Sup_Medial_R' ,'Rectus_L' ,'Rectus_R' ,'Precentral_L' ,'Precentral_R' ,'Rolandic_Oper_L' ,'Rolandic_Oper_R' ,'Supp_Motor_Area_L' ,'Supp_Motor_Area_R' ,'Insula_L' ,'Insula_R' ,'Postcentral_L' ,'Postcentral_R' ,'Paracentral_Lobule_L' ,'Paracentral_Lobule_R' ,'Parietal_Sup_L' ,'Parietal_Sup_R' ,'Parietal_Inf_L' ,'Parietal_Inf_R' ,'SupraMarginal_L' ,'SupraMarginal_R' ,'Angular_L' ,'Angular_R' ,'Precuneus_L' ,'Precuneus_R' ,'Calcarine_L' ,'Calcarine_R' ,'Cuneus_L' ,'Cuneus_R' ,'Lingual_L' ,'Lingual_R' ,'Occipital_Sup_L' ,'Occipital_Sup_R' ,'Occipital_Mid_L' ,'Occipital_Mid_R' ,'Occipital_Inf_L' ,'Occipital_Inf_R' ,'Heschl_L' ,'Heschl_R' ,'Temporal_Sup_L' ,'Temporal_Sup_R' ,'Temporal_Pole_Sup_L' ,'Temporal_Pole_Sup_R' ,'Temporal_Mid_L' ,'Temporal_Mid_R' ,'Temporal_Pole_Mid_L' ,'Temporal_Pole_Mid_R' ,'Temporal_Inf_L' ,'Temporal_Inf_R' ,'Fusiform_L' ,'Fusiform_R' ,'Cingulum_Ant_L' ,'Cingulum_Ant_R' ,'Cingulum_Mid_L' ,'Cingulum_Mid_R' ,'Cingulum_Post_L' ,'Cingulum_Post_R' ,'Hippocampus_L' ,'Hippocampus_R' ,'ParaHippocampal_L' ,'ParaHippocampal_R' ,'Amygdala_L' ,'Amygdala_R' ,'Thalamus_L' ,'Thalamus_R' ,'Caudate_L' ,'Caudate_R' ,'Putamen_L' ,'Putamen_R' ,'Pallidum_L' ,'Pallidum_R' ,'Cerebelum_Crus1_L' ,'Cerebelum_Crus1_R' ,'Cerebelum_Crus2_L' ,'Cerebelum_Crus1_R' ,'Cerebelum_3_L' ,'Cerebelum_3_R' ,'Cerebelum_4_5_L' ,'Cerebelum_4_5_R' ,'Cerebelum_6_L' ,'Cerebelum_6_R' ,'Cerebelum_7b_L' ,'Cerebelum_7b_R' ,'Cerebelum_8_L' ,'Cerebelum_8_R' ,'Cerebelum_9_L' ,'Cerebelum_9_R' ,'Cerebelum_10_L' ,'Cerebelum_10_R' ,'Vermis_1_2' ,'Vermis_3' ,'Vermis_4_5' ,'Vermis_6' ,'Vermis_7' ,'Vermis_8' ,'Vermis_9' ,'Vermis_10'}
