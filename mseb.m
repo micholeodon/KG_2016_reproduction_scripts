@@ -2,7 +2,7 @@ function H = mseb(x,y,errBar,lineProps,transparent)
 % H = MSEB(x,y,errBar,lineProps,transparent)
 %
 % Multiple Shaded Error Bars (MSEB) makes a 2-d plot containing multiple 
-% lines with pretty shaded error bars.
+% lines with pretty shaded error bars
 % This is an extension of the popular shadedErrorBar, by Rob Campbell,
 % enabling plotting of multiple data lines with overlapping errorbars, as 
 % well as turning off legends for all elements but the main lines. MSEB is
