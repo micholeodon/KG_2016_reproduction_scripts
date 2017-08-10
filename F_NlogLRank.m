@@ -82,11 +82,9 @@ global CFG
                 for iroi = CFG.goodroi
                     iroi
 
-                    % pool data
-                    % POOLING - rearrange data (all 11 subject clusters in 1st dimension, frequencies in 2nd dimension)
-                    % (Pooling is my assumption, because this detail was not provided in the paper.)
                     
-                    disp('Pooling, extracting, rearranging data ...')
+                    
+                    disp('Extracting, rearranging data ...')
                     ss = find(ismember(CFG.goodsub, subjIdx)); 
                     roidata = allrois{iroi}(:,:,ss);
                     roidata = permute(roidata(:,:,isub),[1 3 2]); % trick to do reshape correctly
