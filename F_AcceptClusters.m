@@ -35,3 +35,5 @@ for iroi = 1:CFG.nroi
                                 gm{iroi}.Sigma(:, :, strongclustidx), ...
                                 gm{iroi}.ComponentProportion(strongclustidx));
 end
+
+%%
