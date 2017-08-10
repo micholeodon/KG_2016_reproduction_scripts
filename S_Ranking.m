@@ -6,3 +6,4 @@ end
 % - compute mean rank
 % ... all in one line :)
 t20meanrank = trimmean(reshape(ranks,1,[]),20); % one general rank; trimmean ignores NaN values
+%
