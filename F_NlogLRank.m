@@ -84,7 +84,7 @@ global CFG
 
                     % pool data
                     % POOLING - rearrange data (all 11 subject clusters in 1st dimension, frequencies in 2nd dimension)
-                    % (Pooling is my assumption, because they have not provided this detail in the paper.)
+                    % (Pooling is my assumption, because this detail was not provided in the paper.)
                     
                     disp('Pooling, extracting, rearranging data ...')
                     ss = find(ismember(CFG.goodsub, subjIdx)); 
