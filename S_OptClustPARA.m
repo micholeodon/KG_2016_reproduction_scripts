@@ -38,3 +38,4 @@ for iiter = iiter0:niterF
     save([CFG.rsltsDir, 'tmp_allclustsilh', '_', num2str(iiter0), '_', num2str(niterF)], 'allnclust', 'allsilhval', 'iiter', 'iroi', 'iiter0', 'niterF') % michak: added in case of need of stopping and not losing partial results
 end
 
+%
