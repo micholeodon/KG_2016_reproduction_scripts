@@ -140,4 +140,4 @@ camlight('right')
 title('Optimal number of clusters')
 saveas(gcf,[CFG.rsltsDir, 'fig/ncl_right_in', '.png'])
 
-% -----------------------------------------------
+% ------------------------------------------------
