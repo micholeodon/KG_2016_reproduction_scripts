@@ -35,4 +35,4 @@ end
 % - trim 20% highest values
 % - compute mean rank
 % ... all in one line :)
-t20meanrank_homo = trimmean(reshape(ranks_homo,1,[]),20); % one general rank; trimmean ignores NaN values
+t20meanrank_homo = trimmean(reshape(ranks_homo,1,[]),20); % one general rank; trimmean ignores NaN values.
