@@ -138,4 +138,4 @@ camlight('right')
 title('Mean rank')
 saveas(gcf,[CFG.rsltsDir, 'fig/mrank_right_in', '.png'])
 
-% -----------------------------------------------
+% ------------------------------------------------
