@@ -2,7 +2,7 @@
 % save(optname,'allnclust','allsilhval');
 % Save optimal no of clusters for each iteration plus silhouette values.
 % Cosine distance criterium is important (others don't capture shape of
-% amplitudes so well).
+% amplitudes so well)
 
 
 JJ1 = [0*(CFG.niter/4) + 1 , 1*(CFG.niter/4)] % eg. for niter=1000  [1 250]
