@@ -5,7 +5,7 @@
 % These script available in github repository are meant to be used to reproduce results in paper “Individual Human Brain Areas Can Be Identified from Their Characteristic Spectral Activation Fingerprints”  by A. Keitel & J. Gross 2016 with data publicly available thanks to the authors.
 
 % Assuming that you have MATLAB with Fieldtrip toolbox and read whole script (especially comments) first to know how to configure (CONFIGRURATION SECTION) and prepare directories with data it to run it smoothly.
-% If there are any question, please contact me - michak@is.umk.pl
+% If there are any questions, please contact me - michak@is.umk.pl
 
 
 clear; close all; clc;
